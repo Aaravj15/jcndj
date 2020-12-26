@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: blue;
+}
+
+h1 {
+    text-decoration:underline
+    text-decoration-color: coral;
+    text-align: center;
+}
+
+h2 {
+    text-decoration-color: coral;
+    text-align: center;
+}
+
+h3 {
+    text-decoration-color: coral;
+    text-align: center;
+}
+
+h4 {
+    text-decoration-color: coral;
+    text-align: center;
+}
+
+h5 {
+    text-decoration-color: coral;
+    text-align: center;
+}
+
+h6 {
+    text-decoration-color: coral;
+    text-align: center;
+}
